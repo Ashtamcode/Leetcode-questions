@@ -22,9 +22,22 @@
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
