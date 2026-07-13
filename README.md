@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
