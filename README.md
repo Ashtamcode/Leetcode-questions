@@ -12,6 +12,7 @@
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -27,6 +28,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -51,6 +53,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -85,4 +88,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
