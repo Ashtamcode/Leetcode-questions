@@ -48,6 +48,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Breadth-First Search
 |  |
 | ------- |
