@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -129,6 +130,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
