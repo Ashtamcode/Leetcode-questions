@@ -7,6 +7,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2651-calculate-delayed-arrival-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
