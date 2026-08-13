@@ -69,6 +69,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -113,6 +115,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0463-island-perimeter](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0463-island-perimeter) |
+| [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0994-rotting-oranges) |
