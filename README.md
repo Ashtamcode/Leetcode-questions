@@ -66,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0242-valid-anagram](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -102,6 +104,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
