@@ -72,6 +72,7 @@
 | [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -92,6 +93,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
 |  |
 | ------- |
