@@ -142,6 +142,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -179,6 +180,7 @@
 | [1260-shift-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
