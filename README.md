@@ -49,6 +49,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -165,6 +166,7 @@
 | [0542-01-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -252,8 +254,18 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
