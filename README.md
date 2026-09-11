@@ -126,6 +126,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
@@ -170,6 +171,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Breadth-First Search
 |  |
@@ -324,4 +327,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
