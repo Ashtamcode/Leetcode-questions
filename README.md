@@ -90,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0207-course-schedule) |
@@ -331,4 +334,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
