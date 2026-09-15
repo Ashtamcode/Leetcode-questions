@@ -44,6 +44,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -90,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -250,6 +253,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0542-01-matrix) |
@@ -340,4 +344,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
