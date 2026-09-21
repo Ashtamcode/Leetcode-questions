@@ -65,6 +65,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -218,6 +219,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0994-rotting-oranges) |
@@ -256,6 +258,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Divide and Conquer
 |  |
@@ -296,6 +299,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
@@ -330,6 +334,7 @@
 | [0210-course-schedule-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
@@ -377,4 +382,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
