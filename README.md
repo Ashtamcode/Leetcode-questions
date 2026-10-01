@@ -248,6 +248,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -300,10 +301,12 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -382,6 +385,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bidirectional Search
 |  |
