@@ -275,6 +275,7 @@
 | [0542-01-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -356,6 +357,7 @@
 | [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -370,6 +372,7 @@
 | [0207-course-schedule](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -403,8 +406,10 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
