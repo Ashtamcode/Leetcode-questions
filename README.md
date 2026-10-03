@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
@@ -134,6 +135,7 @@
 | [0001-two-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0127-word-ladder) |
+| [0202-happy-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
@@ -248,6 +250,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -412,4 +415,8 @@
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
