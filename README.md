@@ -22,6 +22,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3959-check-good-integer](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3959-check-good-integer) |
 ## Tree
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3959-check-good-integer](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3959-check-good-integer) |
 ## Binary Search
 |  |
 | ------- |
