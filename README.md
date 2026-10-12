@@ -26,6 +26,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0112-path-sum) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -85,6 +87,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0112-path-sum) |
@@ -325,6 +328,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
