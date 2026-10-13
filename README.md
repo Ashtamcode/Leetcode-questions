@@ -197,6 +197,7 @@
 | [0542-01-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1260-shift-2d-grid) |
@@ -310,6 +311,7 @@
 | [0463-island-perimeter](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1260-shift-2d-grid) |
