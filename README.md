@@ -148,6 +148,7 @@
 | [0127-word-ladder](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
@@ -192,6 +193,7 @@
 | [0130-surrounded-regions](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0419-battleships-in-a-board](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0463-island-perimeter) |
@@ -362,6 +364,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
