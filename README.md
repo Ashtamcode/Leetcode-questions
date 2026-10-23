@@ -319,6 +319,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Matrix
 |  |
@@ -345,6 +346,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search Tree
 |  |
@@ -471,4 +473,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
