@@ -204,6 +204,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0419-battleships-in-a-board](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [0542-01-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
