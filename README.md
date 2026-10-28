@@ -158,6 +158,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -210,6 +211,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0419-battleships-in-a-board](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0419-battleships-in-a-board) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
