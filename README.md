@@ -227,6 +227,7 @@
 | [1260-shift-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1470-shuffle-the-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -308,6 +309,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -367,6 +369,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Binary Search Tree
 |  |
 | ------- |
