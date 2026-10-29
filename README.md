@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -206,6 +207,7 @@
 | [0079-word-search](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1441-build-an-array-with-stack-operations) |
