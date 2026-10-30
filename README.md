@@ -138,6 +138,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -389,6 +390,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -432,6 +434,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -489,6 +492,7 @@
 | [0743-network-delay-time](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
