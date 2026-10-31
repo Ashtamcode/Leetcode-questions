@@ -220,6 +220,7 @@
 | [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [0542-01-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0766-toeplitz-matrix) |
@@ -373,6 +374,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0636-exclusive-time-of-functions](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Binary Search Tree
 |  |
