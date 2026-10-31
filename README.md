@@ -234,6 +234,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -376,6 +377,7 @@
 | [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -511,4 +513,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
