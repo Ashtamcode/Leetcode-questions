@@ -351,6 +351,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Matrix
@@ -382,6 +383,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
