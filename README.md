@@ -90,6 +90,7 @@
 | [1020-number-of-enclaves](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -237,6 +238,7 @@
 | [1020-number-of-enclaves](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -304,6 +306,7 @@
 | [1020-number-of-enclaves](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -377,6 +380,7 @@
 | [1020-number-of-enclaves](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -419,6 +423,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -445,6 +450,7 @@
 | [0785-is-graph-bipartite](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
