@@ -54,6 +54,7 @@
 | [2236-root-equals-sum-of-children](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [2236-root-equals-sum-of-children](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## String
 |  |
 | ------- |
@@ -313,6 +315,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Number Theory
 |  |
