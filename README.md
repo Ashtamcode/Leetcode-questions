@@ -9,6 +9,7 @@
 | [0202-happy-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -151,6 +152,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -249,6 +251,7 @@
 | [1470-shuffle-the-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1514-path-with-maximum-probability](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -359,6 +362,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
