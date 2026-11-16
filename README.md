@@ -139,6 +139,7 @@
 | [0389-find-the-difference](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0500-keyboard-row) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -342,6 +343,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
