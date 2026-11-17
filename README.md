@@ -207,6 +207,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -265,6 +266,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [2974-minimum-number-game](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -345,6 +347,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [2974-minimum-number-game](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -432,6 +435,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [2974-minimum-number-game](https://github.com/Ashtamcode/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ashtamcode/Leetcode-questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
