@@ -9,6 +9,7 @@
 | [0202-happy-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -248,6 +250,7 @@
 | [1260-shift-2d-grid](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -382,6 +385,7 @@
 | [0155-min-stack](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -576,4 +580,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Ashtamcode/Leetcode-questions/tree/master/0778-swim-in-rising-water) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashtamcode/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
